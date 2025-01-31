@@ -32,8 +32,4 @@ Caso contrário, o programa informa que não foi possível obter a cotação no 
 4. Execução principal (if __name__ == "__main__")
 Esse bloco garante que a função main() seja executada apenas quando o script for executado diretamente, e não quando importado como módulo.
 
-Análise dos Pontos Positivos
-Estrutura clara e simples: O código está bem organizado, com funções separadas para obter a cotação e controlar o fluxo principal do programa.
-Tratamento de erros: O uso de try-except para capturar exceções na requisição HTTP é uma boa prática, garantindo que o programa não quebre em caso de falhas na comunicação com a API ou problemas de rede.
-Interface simples: O código interage com o usuário de maneira clara e objetiva, apresentando mensagens de boas-vindas e resultados com informações úteis (cotação do dólar e valor convertido).
-Uso de API externa: A integração com uma API externa permite que o código obtenha dados atualizados em tempo real.
+
