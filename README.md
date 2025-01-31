@@ -32,4 +32,18 @@ Caso contrário, o programa informa que não foi possível obter a cotação no 
 4. Execução principal (if __name__ == "__main__")
 Esse bloco garante que a função main() seja executada apenas quando o script for executado diretamente, e não quando importado como módulo.
 
+Como Usar
+Clone o repositório:
+
+git clone https://github.com/usuario/repositorio.git
+Instale o módulo requests (se ainda não estiver instalado):
+
+pip install requests
+Execute o código:
+
+python conversor_dolar.py
+Siga as instruções exibidas no terminal para realizar a conversão de dólares para reais.
+
+
+Contribuições são bem-vindas! Se você deseja melhorar o código, sinta-se à vontade para enviar um pull request.
 
