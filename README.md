@@ -47,3 +47,4 @@ Siga as instruções exibidas no terminal para realizar a conversão de dólares
 
 Contribuições são bem-vindas! Se você deseja melhorar o código, sinta-se à vontade para enviar um pull request.
 
+Este projeto está licenciado sob a Licença MIT.
